@@ -1,0 +1,31 @@
+{
+# 微信公众号：凡事有券 
+# 公众号配置
+# 公众号appId
+"app_id": "wx5d7ca0b9d640ac33",
+# 公众号appSecret
+"app_secret": "fb564a2043140e7e3312132d6fa00305",
+# 模板消息id
+"template_id": "8DBRQ8b9sjQRmohl1OoOtqLXhJLacvyNMIPeXdpawzo",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ovj_m6H1KfP6u5_3YAjzszEP1iR8", "ovj_m6IxbEEFb35A8GXWSFQsGAMs"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "	
+3c2cf11296fd4e06b411c439ae9a4a97",
+# 天行数据apikey
+"tian_api": " 79aa6a7d1972b09c0897f76461de26af",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "金昌市",
+# 生日1
+"birthday1": {"name": "不苦宝贝", "birthday": "1999-07-22"},
+# 生日2
+"birthday2": {"name": "胡图图", "birthday": "2021-11-29"},
+# 在一起的日子，格式同上
+"love_date": "2020-05-16",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
